@@ -51,7 +51,9 @@ Contribuições são bem-vindas. Para contribuir, siga estas etapas:
 
 ## Licença
 
-Este projeto tem todos os direitos reservados a Liedson Barros.
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
+
+---
 
 ## Contato
 
